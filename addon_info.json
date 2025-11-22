@@ -1,0 +1,10 @@
+﻿{
+  "addon_name": "xPand",
+  "addon_description": "Expand abbreviations into full words as you type.",
+  "addon_version": "2025.11",
+  "addon_author": "chaichaimee",
+  "addon_url": "url = https://github.com/chaichaimee/xPand",
+  "addon_download_url": "https://github.com/chaichaimee/xPand/releases/download/v2025.11/xPand-v2025.11.nvda-addon",
+  "addon_min_nvda_version": "2022.4"
+}
+
